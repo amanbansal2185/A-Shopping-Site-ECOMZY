@@ -4,7 +4,7 @@ Welcome to our **E-Commerce project** repository! This project is built using **
 
 ## 🌐 Demo
 
-Check out the live demo of the E-Commerce project here: [**Live Demo**](https://your-e-commerce-project-url.netlify.app)
+Check out the live demo of the E-Commerce project here: [**Live Demo**](https://ayush-shopping-website.netlify.app/)
 
 ## 🚀 Technologies Used
 
